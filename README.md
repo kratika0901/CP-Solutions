@@ -8,22 +8,22 @@ Codeforces, LeetCode, CSES, CodeChef &amp; GeeksforGeeks solutions, organized cl
 
 Synced automatically by SolveBase.
 
-**Total solved: 0**
+**Total solved: 1**
 
 ## Codeforces
 
 Solutions by [kratika0901](https://codeforces.com/profile/kratika0901), organized by difficulty rating.
 
-**Solved: 0**
+**Solved: 1**
 
 | Difficulty | Solved |
 | --- | --- |
-| — | 0 |
+| [1200](./codeforces/1200) | 1 |
 
 
 ## LeetCode
 
-Solutions by [Kratixzz](https://leetcode.com/u/KratikaVerma1210/) primary topic folder.
+Solutions organized by primary topic folder.
 
 **Solved: 0**
 
