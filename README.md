@@ -23,7 +23,7 @@ Solutions by [kratika0901](https://codeforces.com/profile/kratika0901), organize
 
 ## LeetCode
 
-Solutions organized by primary topic folder.
+Solutions organized by [kratika0901](https://leetcode.com/u/KratikaVerma1210/), primary topic folder.
 
 **Solved: 1**
 
